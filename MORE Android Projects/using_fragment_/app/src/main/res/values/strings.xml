@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">using_fragment_</string>
+    <string name="your_info">your info</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="your_inf">your Info</string>
+</resources>
